@@ -1,0 +1,9 @@
+Jobbar 111 14 8 2022-04-20 null null null null
+Sifat 220 14 7 2022-03-30 null null null null
+Kuddus 750 13 7 2022-04-13 null null null null
+Rafi 614 12 6 2022-04-19 null null null null
+Rakin 985 15 9 2022-03-30 null null null null
+Sifat 654 11 2022-03-29 9 null null null null
+Sifat 654 11 2022-03-29 9 null null null null
+Sifat 654 11 2022-03-29 9 null null null null
+acac 23 222r 2022-03-30 1erq null null null null
